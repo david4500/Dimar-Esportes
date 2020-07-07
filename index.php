@@ -40,7 +40,7 @@
 			<nav class="navbar navbar-expand-lg navbar-light main_box">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
-					<a class="navbar-brand logo_h" href="index.html"><img src="img/banner/logo2.png" alt=""></a>
+					<a class="navbar-brand logo_h" href="index.html"><img src="dimarlogo.png" alt=""></a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="icon-bar"></span>
@@ -197,7 +197,7 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-						<a href="single-product.php"><img class="img-fluid" src="img/product/AdidasAdiease.jpg" alt=""></a>
+						<a href="single-product.php"><img class="img-fluid" src="img/product/futsal.jpeg" alt=""></a>
 							<div class="product-details">
 								<h6>TENIS ADIDAS SKATEBOARDING ADIEASE</h6>
 								<div class="price">
@@ -226,7 +226,7 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-						<a href="single-product.php"><img class="img-fluid" src="img/product/adiease.jpg" alt=""></a>
+						<a href="single-product.php"><img class="img-fluid" src="img/product/nike paia.png" alt=""></a>
 							<div class="product-details">
 								<h6>TÊNIS ADIEASE PREMIERE CINZA</h6>
 								<div class="price">
@@ -285,7 +285,7 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-						<a href="single-product.php"><img class="img-fluid" src="img/product/chinelo.jpg" alt=""></a>
+						<a href="single-product.php"><img class="img-fluid" src="img/product/caraio.jpeg" alt=""></a>
 							<div class="product-details">
 								<h6>addidas New Hammer sole
 									for Sports person</h6>
@@ -539,7 +539,7 @@
 						<!-- single product -->
 						<div class="col-lg-4 col-md-6">
 							<div class="single-product">
-							<a href="single-product.php"><img class="img-fluid" src="img/product/p1.jpg" alt=""></a>
+							<a href="single-product.php"><img class="img-fluid" src="img/product/tenis1.jpg" alt=""></a>
 								<div class="product-details">
 									<h6>addidas New Hammer sole
 										for Sports person</h6>
@@ -572,7 +572,7 @@
 						<!-- single product -->
 						<div class="col-lg-4 col-md-6">
 							<div class="single-product">
-							<a href="single-product.php"><img class="img-fluid" src="img/product/p2.jpg" alt=""></a>
+							<a href="single-product.php"><img class="img-fluid" src="img/product/tenis2.jpg" alt=""></a>
 								<div class="product-details">
 									<h6>addidas New Hammer sole
 										for Sports person</h6>
@@ -605,7 +605,7 @@
 						<!-- single product -->
 						<div class="col-lg-4 col-md-6">
 							<div class="single-product">
-							<a href="single-product.php"><img class="img-fluid" src="img/product/p3.jpg" alt=""></a>
+							<a href="single-product.php"><img class="img-fluid" src="img/product/tenis4.jpg" alt=""></a>
 								<div class="product-details">
 									<h6>addidas New Hammer sole
 										for Sports person</h6>
@@ -638,7 +638,7 @@
 						<!-- single product -->
 						<div class="col-lg-4 col-md-6">
 							<div class="single-product">
-							<a href="single-product.php"><img class="img-fluid" src="img/product/p4.jpg" alt=""></a>
+							<a href="single-product.php"><img class="img-fluid" src="img/product/tenis6.jpg" alt=""></a>
 								<div class="product-details">
 									<h6>addidas New Hammer sole
 										for Sports person</h6>
@@ -671,7 +671,7 @@
 						<!-- single product -->
 						<div class="col-lg-4 col-md-6">
 							<div class="single-product">
-							<a href="single-product.php"><img class="img-fluid" src="img/product/p5.jpg" alt=""></a>
+							<a href="single-product.php"><img class="img-fluid" src="img/product/chinelo1.jpg" alt=""></a>
 								<div class="product-details">
 									<h6>addidas New Hammer sole
 										for Sports person</h6>
@@ -704,7 +704,7 @@
 						<!-- single product -->
 						<div class="col-lg-4 col-md-6">
 							<div class="single-product">
-							<a href="single-product.php"><img class="img-fluid" src="img/product/p6.jpg" alt=""></a>
+							<a href="single-product.php"><img class="img-fluid" src="img/product/crocks.png" alt=""></a>
 								<div class="product-details">
 									<h6>addidas New Hammer sole
 										for Sports person</h6>

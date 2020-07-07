@@ -69,7 +69,7 @@
 									<li class="nav-item"><a class="nav-link" href="category.html.htm">Feminino</a></li>
 									<li class="nav-item"><a class="nav-link" href="category.html.htm">Infantil</a></li>
 									<li class="nav-item"><a class="nav-link" href="category.html.htm">Esporte</a></li>
-									<li class="nav-item"><a class="nav-link" href="cadastro_produto.php">Cadastrar produto</a></li>
+									<li class="nav-item"><a class="nav-link" href="gerenciar_produto.php">Gerenciar produtos</a></li>
 								</ul>
 							</li>
 							<li class="nav-item submenu dropdown">

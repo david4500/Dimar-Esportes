@@ -98,7 +98,7 @@ if($operacao == "cad_usuario"){
     $senha = $_POST["senha"];
 
     $sql = "INSERT INTO usuario (nome, sobrenome, email, cpf, senha) VALUES ";
-    $sql .= "('$nome','$sobrenome', $email,'$cpf', $senha)";
+    $sql .= "('$nome','$sobrenome', '$email','$cpf', '$senha')";
 
     if($mysqli->query($sql)===TRUE){
         echo "USUARIO CADASTRADO COM SUCESSO";

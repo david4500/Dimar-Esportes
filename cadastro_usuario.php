@@ -157,7 +157,7 @@
 								</div>
 							</div>
 							<div class="col-md-12 form-group">
-								<button type="submit" value="submit" class="primary-btn">Cadastrar minha conta</button>
+								<button type="submit" value="submit" class="primary-btn">Criar minha conta</button>
 								<a >SEJA BEM-VINDO</a>
 							</div>
 						</form>
